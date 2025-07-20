@@ -52,8 +52,8 @@ const Index = () => {
   ];
 
   const stats = [
-    { icon: Users, value: "50+", label: "Happy Clients" },
-    { icon: Palette, value: "200+", label: "Projects Completed" },
+    { icon: Users, value: "5+", label: "Happy Clients" },
+    { icon: Palette, value: "20+", label: "Projects Completed" },
     { icon: Star, value: "4.9", label: "Average Rating" },
     { icon: Zap, value: "24hr", label: "Fast Turnaround" }
   ];

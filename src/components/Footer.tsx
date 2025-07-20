@@ -36,15 +36,15 @@ const Footer = () => {
             <ul className="space-y-2 text-sm">
               <li className="flex items-center gap-2 text-white/70">
                 <Mail className="w-4 h-4" />
-                hello@canvacreative.com
+                ramoliyajay9@gmail.com
               </li>
               <li className="flex items-center gap-2 text-white/70">
                 <Phone className="w-4 h-4" />
-                +1 (555) 123-4567
+                +91 6353716421
               </li>
               <li className="flex items-center gap-2 text-white/70">
                 <MapPin className="w-4 h-4" />
-                Los Angeles, CA
+                Rajkot
               </li>
             </ul>
           </div>
@@ -53,13 +53,13 @@ const Footer = () => {
           <div>
             <h3 className="font-semibold mb-4">Follow Me</h3>
             <div className="flex gap-4">
-              <a href="#" className="w-8 h-8 bg-white/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">
+              <a href="" className="w-8 h-8 bg-white/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">
                 <Instagram className="w-4 h-4" />
               </a>
-              <a href="#" className="w-8 h-8 bg-white/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">
+              <a href="https://linktr.ee/jayramoliya" className="w-8 h-8 bg-white/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">
                 <Twitter className="w-4 h-4" />
               </a>
-              <a href="#" className="w-8 h-8 bg-white/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">
+              <a href="https://www.linkedin.com/in/jayramoliya/" className="w-8 h-8 bg-white/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">
                 <Linkedin className="w-4 h-4" />
               </a>
             </div>

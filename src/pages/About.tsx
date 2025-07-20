@@ -58,6 +58,7 @@ const About = () => {
                 <div className="relative">
                   <div className="aspect-square bg-gradient-secondary rounded-2xl p-8 flex items-center justify-center">
                     <Camera className="w-24 h-24 text-white" />
+                    <img src="/public/jay.png" alt="jay" className="w-full" />
                   </div>
                 </div>
               </div>
